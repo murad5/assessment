@@ -25,7 +25,7 @@ const Login = () => {
     const history = useHistory();
 
     const handleSubmit =() => {
-      history.push("/home");
+      history.push("/relatability");
     }
 
     return (
