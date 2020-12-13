@@ -1,0 +1,8 @@
+.radio{
+    width:30px;
+    height: 30px;
+    border-radius:50%
+}
+.row input:checked ~ .check {
+    background-color: greenyellow;
+  }
