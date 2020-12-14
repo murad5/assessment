@@ -1,0 +1,14 @@
+.welcome-btn{
+    background-image: linear-gradient(75deg,#C0392B , #E74C3C );
+    color:white;
+    text-transform: uppercase;
+    font-weight: 600;
+    
+  }
+  .welcome-btn:hover{
+    background-image: linear-gradient(75deg, #E74C3C ,#C0392B );
+    color:white;
+  }
+  .welcome{
+    margin-top:200px;
+  }
